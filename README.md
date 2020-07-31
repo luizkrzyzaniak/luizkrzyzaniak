@@ -1,3 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizkrzyzaniak)](https://www.linkedin.com/in/luizkrzyzaniak) [![codepen Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/luizkrzyzaniak)](https://codepen.io/luizkrzyzaniak)
+
+
 ### Olá 
 Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
  - Minha Familia :family:
@@ -18,4 +21,5 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
  :white_check_mark: Python  
  :white_check_mark: PHP  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizkrzyzaniak)](https://www.linkedin.com/in/luizkrzyzaniak)
+
+
