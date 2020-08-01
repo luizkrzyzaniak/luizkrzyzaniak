@@ -12,7 +12,7 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
   :white_check_mark: Técnico em Informática - ETEC  
   :white_check_mark: Certificado - Banco de Dados - [UNIVESP](http://univesp.br)  
   :white_check_mark: Certificado - Fullstack Developer - [Digital Innovation One](https://digitalinnovation.one/)
-  :white_check_mark: Certificado - Desenvolvedor Front-end ReactJS - [Digital Innovation One](https://digitalinnovation.one/)
+  :white_check_mark: Certificado - Desenvolvedor Front-end ReactJS - [Digital Innovation One](https://digitalinnovation.one/)  
   :white_check_mark: Certificado - Desenvolvedor Front-end Angular - [Digital Innovation One](https://digitalinnovation.one/)  
   
   #### Habilidades:
