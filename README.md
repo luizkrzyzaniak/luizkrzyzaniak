@@ -17,10 +17,17 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
   
   #### Habilidades:
  :white_check_mark: HTML, CSS e Javascript  
+ :white_check_mark: Flutter e Dart  
  :white_check_mark: ReactJS e Angular  
  :white_check_mark: Banco de Dados (MySQL, SQLServer, PostgreSQL...)  
  :white_check_mark: Python  
  :white_check_mark: PHP  
+ 
+ #### Meu GitHub:
+ <p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizkrzyzaniak&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizkrzyzaniak&show_icons=true&layout=compact" />
+</p>
 
 
 
