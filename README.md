@@ -25,8 +25,8 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
  
  #### Meu GitHub:
  <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizkrzyzaniak&show_icons=true&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizkrzyzaniak&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizkrzyzaniak&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizkrzyzaniak&show_icons=true&layout=compact&theme=radical" />
 </p>
 
 
