@@ -1,5 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizkrzyzaniak)](https://www.linkedin.com/in/luizkrzyzaniak) [![codepen Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/luizkrzyzaniak)](https://codepen.io/luizkrzyzaniak)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizkrzyzaniak)](https://www.linkedin.com/in/luizkrzyzaniak)
 
 ### Olá 
 Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
@@ -18,7 +17,8 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
   #### Habilidades:
  :white_check_mark: HTML, CSS e Javascript  
  :white_check_mark: Flutter e Dart  
- :white_check_mark: ReactJS e Angular  
+ :white_check_mark: FlutterFlow
+ ✅ Bubble
  :white_check_mark: Banco de Dados (MySQL, SQLServer, PostgreSQL...)  
  :white_check_mark: Python  
  :white_check_mark: PHP  
