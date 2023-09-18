@@ -17,8 +17,8 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
   #### Habilidades:
  :white_check_mark: HTML, CSS e Javascript  
  :white_check_mark: Flutter e Dart  
- :white_check_mark: FlutterFlow
- ✅ Bubble
+ :white_check_mark: FlutterFlow  
+ :white_check_mark: Bubble  
  :white_check_mark: Banco de Dados (MySQL, SQLServer, PostgreSQL...)  
  :white_check_mark: Python  
  :white_check_mark: PHP  
