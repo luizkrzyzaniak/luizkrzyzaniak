@@ -19,9 +19,9 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
  :white_check_mark: Flutter e Dart  
  :white_check_mark: FlutterFlow  
  :white_check_mark: Bubble  
- :white_check_mark: Banco de Dados (MySQL, SQLServer, PostgreSQL...)  
+ :white_check_mark: Banco de Dados SQL e NoSQL  
  :white_check_mark: Python  
- :white_check_mark: PHP  
+ :white_check_mark: PHP - Wordpress  
  
  #### Meu GitHub:
  <p align="center"> 
