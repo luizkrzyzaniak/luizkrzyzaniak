@@ -13,6 +13,8 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
   :white_check_mark: Certificado - Fullstack Developer - [Digital Innovation One](https://digitalinnovation.one/)  
   :white_check_mark: Certificado - Desenvolvedor Front-end ReactJS - [Digital Innovation One](https://digitalinnovation.one/)  
   :white_check_mark: Certificado - Desenvolvedor Front-end Angular - [Digital Innovation One](https://digitalinnovation.one/)  
+  :white_check_mark: Certificação de Especialista em Soft Skills para Desenvolvedores - [Comunidade Sem Codar](https://www.semcodar.com.br) 
+  :white_check_mark: Certificação em Bubble - Design e Responsividade - [Comunidade Sem Codar](https://www.semcodar.com.br) 
   
   #### Habilidades:
  :white_check_mark: HTML, CSS e Javascript  
@@ -20,7 +22,7 @@ Meu nome é Luiz Krzyzaniak, sou brasileiro :brazil: e amo :heart: :
  :white_check_mark: FlutterFlow  
  :white_check_mark: Bubble  
  :white_check_mark: Banco de Dados SQL e NoSQL  
- :white_check_mark: Python  
+ :white_check_mark: Supabase e Firebase  
  :white_check_mark: PHP - Wordpress  
  
  #### Meu GitHub:
